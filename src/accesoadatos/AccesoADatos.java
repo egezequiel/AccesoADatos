@@ -14,7 +14,7 @@ import java.time.Month;
 
 public class AccesoADatos {
 
-  
+  // Aca arranca la aplicacion 
     public static void main(String[] args) throws SQLException  {
         Conexion con = new Conexion();
 
